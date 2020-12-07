@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Conheça a Unijuazeirio
+          Conheça a Unijuazeiro
         </a>
       </header>
     </div>
