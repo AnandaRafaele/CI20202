@@ -11,7 +11,7 @@ Esse projeto tem o objetivo de ensinar Continous Integration para a turma de Eng
 - [x] executar os testes
 - [x] quando enviado para o master, fazer o build do projeto
 - [] disponibilizar o relatorio de combertura de testes e build ao fim do workflow
-- [] quando enviado para o master, fazer a implantação do projeto do projeto
+- [] quando enviado para o master, fazer a implantação do projeto do projeto no [link](http://ci2020-samuelclerod.surge.sh/)
 
 ## Scripts Disponíveis
 
