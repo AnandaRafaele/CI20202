@@ -4,6 +4,15 @@
 
 Esse projeto tem o objetivo de ensinar Continous Integration para a turma de Engenharia de Software II da Unijuazeiro.
 
+## Tarefas a serem implementas no CI
+
+- [x] fazer o checkout do projeto no CI
+- [x] fazer a configuração do ambiente (versaão do node e instalação das dependencias)
+- [x] executar os testes
+- [x] quando enviado para o master, fazer o build do projeto
+- [] disponibilizar o relatorio de combertura de testes e build ao fim do workflow
+- [] quando enviado para o master, fazer a implantação do projeto do projeto
+
 ## Scripts Disponíveis
 
 Na raiz do projeto você poderá executar:
